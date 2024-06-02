@@ -1,0 +1,1 @@
+window.TEXT_SEARCH_DATA={'posts':[{'title':"Post with Header Image",'url':"/2018/06/01/header-image.html"},{'title':"Welcome",'url':"/2018/07/01/welcome.html"},{'title':"墨镜选购指南",'url':"/2024/06/02/%E5%A2%A8%E9%95%9C%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97.html"}]};
