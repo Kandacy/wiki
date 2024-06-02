@@ -226,4 +226,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-text-theme
   - jekyll-remote-theme # 添加这一行
