@@ -13,9 +13,9 @@
 
 
 
-theme: jekyll-text-theme
-remote_theme: kitian616/jekyll-TeXt-theme
 
+remote_theme: kitian616/jekyll-TeXt-theme
+theme: jekyll-text-theme
 
 ## => Site Settings
 ##############################
@@ -226,5 +226,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-  - jekyll-text-theme
   - jekyll-remote-theme # 添加这一行
